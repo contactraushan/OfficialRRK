@@ -4,7 +4,7 @@ Pizza
 Pasta
 Maggy
 // Added for new
-Sweets
+desert items // Added successfully
 
 Thanks
 Raushan
