@@ -3,7 +3,8 @@ Menu available for food::
 Pizza
 Pasta
 Maggy
-
+// Added for new
+Sweets
 
 Thanks
 Raushan
